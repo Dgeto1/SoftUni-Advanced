@@ -1,32 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
+﻿    using System;
+    using System.Collections.Generic;
 
-namespace _03.SimpleCalculator
-{
-    class Program
+    namespace _03.SimpleCalculator
     {
-        static void Main(string[] args)
+        class Program
         {
-            string[] expression = Console.ReadLine().Split();
-            Array.Reverse(expression);
-            int sum = 0;
-
-            Stack<string> tokens = new Stack<string>(expression);
-            sum += int.Parse(tokens.Pop());
-            while (tokens.Count>0)
+            static void Main(string[] args)
             {
-                char symbol = char.Parse(tokens.Pop());
-                if(symbol=='+')
+                string[] expression = Console.ReadLine().Split();
+                Array.Reverse(expression);
+                int sum = 0;
+
+                Stack<string> tokens = new Stack<string>(expression);
+                sum += int.Parse(tokens.Pop());
+                while (tokens.Count>0)
                 {
-                    sum += int.Parse(tokens.Pop());
+                    char symbol = char.Parse(tokens.Pop());
+                    if(symbol=='+')
+                    {
+                        sum += int.Parse(tokens.Pop());
+                    }
+                    else
+                    {
+                        sum -= int.Parse(tokens.Pop());
+                    }
                 }
-                else
-                {
-                    sum -= int.Parse(tokens.Pop());
-                }
+                Console.WriteLine(sum);
             }
-            Console.WriteLine(sum);
         }
     }
-}
 

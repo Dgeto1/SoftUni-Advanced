@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYY0yTBVeZ2T/kkfoWRlq/dMvGUfvzSViQOb1VA+wo9ZpCTR1omm0cX8q68pNXX3QInc7JOB3JXI9ZTNY4W12Q==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/01. Stacks and Queues/Exercise/01.BasicStackOperations/01.BasicStackOperations/01.BasicStackOperations.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
