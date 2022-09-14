@@ -7,17 +7,25 @@ namespace _03.SimpleCalculator
     {
         static void Main(string[] args)
         {
-            string expression = Console.ReadLine();
+            string[] expression = Console.ReadLine().Split();
+            Array.Reverse(expression);
+            int sum = 0;
 
-            Stack<int> indexes = new Stack<int>();
-
-            for(int i=0; i<expression.Length; i++)
+            Stack<string> tokens = new Stack<string>(expression);
+            sum += int.Parse(tokens.Pop());
+            while (tokens.Count>0)
             {
-                if (expression[i]!='+' && expression[i]!='-')
+                char symbol = char.Parse(tokens.Pop());
+                if(symbol=='+')
                 {
-                    indexer
+                    sum += int.Parse(tokens.Pop());
+                }
+                else
+                {
+                    sum -= int.Parse(tokens.Pop());
                 }
             }
+            Console.WriteLine(sum);
         }
     }
 }
