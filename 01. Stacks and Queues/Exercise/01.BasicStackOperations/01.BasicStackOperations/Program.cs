@@ -20,9 +20,10 @@ namespace _01.BasicStackOperations
             {
                 numbers.Push(int.Parse(numbersToAdd[i]));
             }
-            for(int i=0; i<numbersPop; i++)
+            while(numbersPop>0)
             {
                 numbers.Pop();
+                numbersPop--;
             }
             if(numbers.Count==0)
             {
@@ -36,16 +37,12 @@ namespace _01.BasicStackOperations
             else
             {
                 int minNumber = numbers.Pop();
-                foreach(var x in numbers)
+                while(numbers.Count>0)
                 {
-                    if(x>minNumber)
+                    int num = numbers.Pop();
+                    if(num<minNumber)
                     {
-                        minNumber = x;
-                        numbers.Pop();
-                    }
-                    else
-                    {
-                        numbers.Pop();
+                        minNumber = num;
                     }
                 }
                 Console.WriteLine(minNumber);
