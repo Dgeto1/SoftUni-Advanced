@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CED02CA1-2FB6-487E-8ABA-C52CCC4F0696}|Default">
+  <MonoDevelop.Ide.ItemProperties.09.SimpleTextEditor FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="09.SimpleTextEditor/Program.cs">
+    <Files>
+      <File FileName="09.SimpleTextEditor/Program.cs" Line="37" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="09.SimpleTextEditor" expanded="True">
+            <Node name="09.SimpleTextEditor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
