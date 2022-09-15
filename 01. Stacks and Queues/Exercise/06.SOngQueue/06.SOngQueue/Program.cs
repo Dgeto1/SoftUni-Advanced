@@ -21,7 +21,13 @@ namespace _06.SOngQueue
                 }
                 else if(command=="Add")
                 {
-                    string song = commands[1];
+                    string song = string.Empty;
+                    for(int i=1; i<commands.Length;i++)
+                    {
+                        song += commands[i] + " ";
+                    }
+                    song = song.Remove(song.Length - 1);
+                    
                     if(!songs.Contains(song))
                     {
                         songs.Enqueue(song);

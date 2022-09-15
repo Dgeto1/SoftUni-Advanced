@@ -29,12 +29,12 @@ namespace _05.FashionBotique
                 {
                     cap -= sum;
                     usedRacks++;
-                    //cap = capacityRack;
                 }
                 else if(sum>cap)
                 {
                     usedRacks++;
                     cap = capacityRack;
+                    cap -= sum;
                 }
             }
             Console.WriteLine(usedRacks);
