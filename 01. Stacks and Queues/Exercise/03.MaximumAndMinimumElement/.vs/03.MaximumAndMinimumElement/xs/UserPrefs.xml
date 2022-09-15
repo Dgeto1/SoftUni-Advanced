@@ -1,14 +1,8 @@
 ﻿<Properties StartupConfiguration="{7C4E2CBF-373F-4FFF-B18A-9CF522FD2B14}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.03.MaximumAndMinimumElement FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="03.MaximumAndMinimumElement/Program.cs">
     <Files>
-      <File FileName="03.MaximumAndMinimumElement/Program.cs" Line="31" Column="32" />
+      <File FileName="03.MaximumAndMinimumElement/Program.cs" Line="49" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,4 +17,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.MaximumAndMinimumElement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
