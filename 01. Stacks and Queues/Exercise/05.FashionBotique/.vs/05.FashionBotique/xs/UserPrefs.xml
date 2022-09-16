@@ -1,8 +1,18 @@
 ﻿<Properties StartupConfiguration="{D4C1134C-234E-4AB8-94F7-08C0F865B4D3}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../04.FastFood/04.FastFood/Program.cs" line="29" column="20" endLine="29" endColumn="48" offsetX="-1" offsetY="-1" expression="currentOrder" liveUpdate="False" />
+    <Watch file="../../../../04.FastFood/04.FastFood/Program.cs" line="27" column="18" endLine="27" endColumn="24" offsetX="-1" offsetY="-1" expression="orders" liveUpdate="False" />
+    <Watch file="../../../../04.FastFood/04.FastFood/Program.cs" line="30" column="19" endLine="30" endColumn="31" offsetX="-1" offsetY="-1" expression="quantityFood" liveUpdate="False" />
+    <Watch file="../../../05.FashionBotique/Program.cs" line="23" column="16" endLine="23" endColumn="19" offsetX="-1" offsetY="-1" expression="sum" liveUpdate="False" />
+    <Watch file="../../../05.FashionBotique/Program.cs" line="24" column="23" endLine="24" endColumn="26" offsetX="-1" offsetY="-1" expression="cap" liveUpdate="False" />
+    <Watch file="../../../05.FashionBotique/Program.cs" line="35" column="20" endLine="35" endColumn="29" offsetX="-1" offsetY="-1" expression="usedRacks" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.Workbench ActiveDocument="05.FashionBotique/Program.cs">
     <Files>
-      <File FileName="05.FashionBotique/Program.cs" Line="6" Column="18" />
+      <File FileName="05.FashionBotique/Program.cs" Line="28" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,16 +27,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.05.FashionBotique PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="../../../../04.FastFood/04.FastFood/Program.cs" line="29" column="20" endLine="29" endColumn="48" offsetX="-1" offsetY="-1" expression="currentOrder" liveUpdate="False" />
-    <Watch file="../../../../04.FastFood/04.FastFood/Program.cs" line="27" column="18" endLine="27" endColumn="24" offsetX="-1" offsetY="-1" expression="orders" liveUpdate="False" />
-    <Watch file="../../../../04.FastFood/04.FastFood/Program.cs" line="30" column="19" endLine="30" endColumn="31" offsetX="-1" offsetY="-1" expression="quantityFood" liveUpdate="False" />
-    <Watch file="../../../05.FashionBotique/Program.cs" line="20" column="20" endLine="20" endColumn="38" offsetX="-1" offsetY="-1" expression="sum" liveUpdate="False" />
-    <Watch file="../../../05.FashionBotique/Program.cs" line="20" column="20" endLine="20" endColumn="38" offsetX="-1" offsetY="-1" expression="cap" liveUpdate="False" />
-  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

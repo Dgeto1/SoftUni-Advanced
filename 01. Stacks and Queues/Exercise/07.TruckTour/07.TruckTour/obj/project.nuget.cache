@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f+2V4VCaIRgrj1otLKCk9VphiZf8+D5AZBKTZG0LddTZB51bYArqeYLG6GSB6k9GAj/cxgfGucJainwHl8OxCA==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/01. Stacks and Queues/Exercise/07.TruckTour/07.TruckTour/07.TruckTour.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
