@@ -14,13 +14,14 @@ namespace _05.FashionBotique
                 values.Push(int.Parse(segments[i]));
             }
             int capacityRack = int.Parse(Console.ReadLine());
-            int usedRacks = 1;
+            int usedRacks = 0;
 
             int cap = capacityRack;
+            int sum = 0;
             while (values.Count>0)
             {
-                int sum = 0;
-                sum += values.Pop();
+                
+                sum = values.Pop();
                 if(sum<cap)
                 {
                     cap -= sum;
