@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "O+621N62jLeoZMnY/4NYa3clik6ajc1kMj7YiN22Flg0Fs8ehQrdewSvrohROEUryl4KNrbCL9yBh+JRomCAZw==",
+  "dgSpecHash": "WDXEmin7a3SqFirJGXzHcbqTaedoEAUPr7uFliSDpXzml3GNrY/JB9JJRN8HJ3+ur4YnhrlpTsL8wQ8D0i4GCA==",
   "success": true,
   "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/01. Stacks and Queues/Exercise/09.SimpleTextEditor/09.SimpleTextEditor/09.SimpleTextEditor.csproj",
   "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
-    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
