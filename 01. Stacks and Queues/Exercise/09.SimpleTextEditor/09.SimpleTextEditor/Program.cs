@@ -30,6 +30,18 @@ namespace _09.SimpleTextEditor
                 {
                     int index = int.Parse(segments[1]);
                     int currentIndex = 1;
+                    Stack<string> pom = new Stack<string>(text);
+                    while(pom.Count>0)
+                    {
+                        if(index==currentIndex)
+                        {
+                            System.Console.WriteLine(pom.Pop());
+                        }
+                        else {
+                            pom.Pop();
+                            currentIndex++;
+                        }
+                    }
                     
                 }
                 else if(command==4)
