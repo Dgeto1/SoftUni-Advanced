@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/bin/Debug/net5.0/03.PrimaryDiagonal
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/bin/Debug/net5.0/03.PrimaryDiagonal.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/bin/Debug/net5.0/03.PrimaryDiagonal.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/bin/Debug/net5.0/03.PrimaryDiagonal.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/bin/Debug/net5.0/03.PrimaryDiagonal.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/bin/Debug/net5.0/03.PrimaryDiagonal.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/obj/Debug/net5.0/03.PrimaryDiagonal.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/obj/Debug/net5.0/03.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/obj/Debug/net5.0/03.PrimaryDiagonal.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/obj/Debug/net5.0/03.PrimaryDiagonal.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/obj/Debug/net5.0/03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/obj/Debug/net5.0/03.PrimaryDiagonal.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/obj/Debug/net5.0/refint/03.PrimaryDiagonal.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/obj/Debug/net5.0/03.PrimaryDiagonal.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/obj/Debug/net5.0/03.PrimaryDiagonal.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/03.PrimaryDiagonal/03.PrimaryDiagonal/obj/Debug/net5.0/ref/03.PrimaryDiagonal.dll

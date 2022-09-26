@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/bin/Debug/net5.0/02.SumMatrixColumns
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/bin/Debug/net5.0/02.SumMatrixColumns.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/bin/Debug/net5.0/02.SumMatrixColumns.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/bin/Debug/net5.0/02.SumMatrixColumns.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/bin/Debug/net5.0/02.SumMatrixColumns.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/bin/Debug/net5.0/02.SumMatrixColumns.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/obj/Debug/net5.0/02.SumMatrixColumns.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/obj/Debug/net5.0/02.SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/obj/Debug/net5.0/02.SumMatrixColumns.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/obj/Debug/net5.0/02.SumMatrixColumns.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/obj/Debug/net5.0/02.SumMatrixColumns.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/obj/Debug/net5.0/02.SumMatrixColumns.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/obj/Debug/net5.0/refint/02.SumMatrixColumns.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/obj/Debug/net5.0/02.SumMatrixColumns.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/obj/Debug/net5.0/02.SumMatrixColumns.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/02.SumMatrixColumns/02.SumMatrixColumns/obj/Debug/net5.0/ref/02.SumMatrixColumns.dll

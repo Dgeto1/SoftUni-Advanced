@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/bin/Debug/net5.0/04.SymbolInMatrix
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/bin/Debug/net5.0/04.SymbolInMatrix.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/bin/Debug/net5.0/04.SymbolInMatrix.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/bin/Debug/net5.0/04.SymbolInMatrix.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/bin/Debug/net5.0/04.SymbolInMatrix.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/bin/Debug/net5.0/04.SymbolInMatrix.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/obj/Debug/net5.0/04.SymbolInMatrix.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/obj/Debug/net5.0/04.SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/obj/Debug/net5.0/04.SymbolInMatrix.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/obj/Debug/net5.0/04.SymbolInMatrix.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/obj/Debug/net5.0/04.SymbolInMatrix.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/obj/Debug/net5.0/04.SymbolInMatrix.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/obj/Debug/net5.0/refint/04.SymbolInMatrix.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/obj/Debug/net5.0/04.SymbolInMatrix.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/obj/Debug/net5.0/04.SymbolInMatrix.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/04.SymbolInMatrix/04.SymbolInMatrix/obj/Debug/net5.0/ref/04.SymbolInMatrix.dll
