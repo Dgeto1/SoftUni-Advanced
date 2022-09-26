@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6v9xjDTxR67ezZu+8jS9uGbBR2hdLyW0UfmQJdxQiASX5NfLr8z0J8f2c9k2kX6jyhBzkOvN2jpH9RzTR79uJQ==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/01.SumMatrixElements/01.SumMatrixElements/01.SumMatrixElements.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

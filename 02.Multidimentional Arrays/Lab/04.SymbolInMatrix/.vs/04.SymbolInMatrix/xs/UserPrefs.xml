@@ -1,16 +1,16 @@
-﻿<Properties StartupConfiguration="{CED02CA1-2FB6-487E-8ABA-C52CCC4F0696}|Default">
+﻿<Properties StartupConfiguration="{0B8ABA1A-2BFF-48F6-91B2-928B2F01B234}|Default">
+  <MonoDevelop.Ide.ItemProperties.04.SymbolInMatrix PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.09.SimpleTextEditor PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="09.SimpleTextEditor/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.SymbolInMatrix/Program.cs">
     <Files>
-      <File FileName="09.SimpleTextEditor/Program.cs" Line="25" Column="1" />
+      <File FileName="04.SymbolInMatrix/Program.cs" Line="37" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="09.SimpleTextEditor" expanded="True">
-            <Node name="09.SimpleTextEditor" expanded="True" />
+          <Node name="04.SymbolInMatrix" expanded="True">
+            <Node name="04.SymbolInMatrix" expanded="True" />
           </Node>
         </State>
       </Pad>

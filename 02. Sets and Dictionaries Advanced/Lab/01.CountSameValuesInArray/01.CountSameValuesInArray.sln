@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountSameValuesInArray", "01.CountSameValuesInArray\01.CountSameValuesInArray.csproj", "{4EF49521-94F8-4955-895B-AA3D8A048712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF49521-94F8-4955-895B-AA3D8A048712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF49521-94F8-4955-895B-AA3D8A048712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF49521-94F8-4955-895B-AA3D8A048712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF49521-94F8-4955-895B-AA3D8A048712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87AA8638-7291-4A52-A21D-EB72CDD77FB4}
+	EndGlobalSection
+EndGlobal
