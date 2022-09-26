@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F855E6C1-A7D8-46A9-B765-74FD4A679F5C}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.OddLines PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="01.OddLines/Program.cs">
+    <Files>
+      <File FileName="../../Ex/Skeleton-Exercise/Skeleton/EvenLines/EvenLines.cs" />
+      <File FileName="01.OddLines/Program.cs" Line="25" Column="13" />
+      <File FileName="01.OddLines/output.txt" Line="5" Column="1" />
+      <File FileName="01.OddLines/input.txt" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01.OddLines" expanded="True">
+            <Node name="01.OddLines" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
