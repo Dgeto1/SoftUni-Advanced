@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/bin/Debug/net5.0/01.CountSameValueInArray
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/bin/Debug/net5.0/01.CountSameValueInArray.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/bin/Debug/net5.0/01.CountSameValueInArray.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/bin/Debug/net5.0/01.CountSameValueInArray.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/bin/Debug/net5.0/01.CountSameValueInArray.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/bin/Debug/net5.0/01.CountSameValueInArray.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/obj/Debug/net5.0/01.CountSameValueInArray.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/obj/Debug/net5.0/01.CountSameValueInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/obj/Debug/net5.0/01.CountSameValueInArray.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/obj/Debug/net5.0/01.CountSameValueInArray.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/obj/Debug/net5.0/01.CountSameValueInArray.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/obj/Debug/net5.0/01.CountSameValueInArray.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/obj/Debug/net5.0/refint/01.CountSameValueInArray.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/obj/Debug/net5.0/01.CountSameValueInArray.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/obj/Debug/net5.0/01.CountSameValueInArray.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/01.CountSameValueInArray/01.CountSameValueInArray/obj/Debug/net5.0/ref/01.CountSameValueInArray.dll
