@@ -5,17 +5,15 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="01.OddLines/Program.cs">
     <Files>
       <File FileName="../../Ex/Skeleton-Exercise/Skeleton/EvenLines/EvenLines.cs" />
-      <File FileName="01.OddLines/Program.cs" Line="25" Column="13" />
-      <File FileName="01.OddLines/output.txt" Line="5" Column="1" />
+      <File FileName="01.OddLines/Program.cs" Line="10" Column="77" />
+      <File FileName="01.OddLines/output.txt" />
       <File FileName="01.OddLines/input.txt" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="01.OddLines" expanded="True">
-            <Node name="01.OddLines" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="01.OddLines" expanded="True" />
           </Node>
         </State>
       </Pad>

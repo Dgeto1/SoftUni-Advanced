@@ -7,8 +7,8 @@ namespace OddLines
     {
         static void Main(string[] args)
         {
-            string inputFilePath = @"..\..\..\Files\input.txt";
-            string outputFilePath = @"..\..\..\Files\output.txt";
+            string inputFilePath = @"../../../Files/input.txt";
+            string outputFilePath = @"../../../Files/output.txt";
 
             ExtractOddLines(inputFilePath, outputFilePath);
         }

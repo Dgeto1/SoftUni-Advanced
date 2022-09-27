@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/bin/Debug/net5.0/02.LineNumbers
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/bin/Debug/net5.0/02.LineNumbers.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/bin/Debug/net5.0/02.LineNumbers.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/bin/Debug/net5.0/02.LineNumbers.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/bin/Debug/net5.0/02.LineNumbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/bin/Debug/net5.0/02.LineNumbers.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/obj/Debug/net5.0/02.LineNumbers.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/obj/Debug/net5.0/02.LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/obj/Debug/net5.0/02.LineNumbers.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/obj/Debug/net5.0/02.LineNumbers.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/obj/Debug/net5.0/02.LineNumbers.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/obj/Debug/net5.0/02.LineNumbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/obj/Debug/net5.0/refint/02.LineNumbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/obj/Debug/net5.0/02.LineNumbers.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/obj/Debug/net5.0/02.LineNumbers.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/02.LineNumbers/02.LineNumbers/obj/Debug/net5.0/ref/02.LineNumbers.dll
