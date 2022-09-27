@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/bin/Debug/net5.0/03.Largest3Numbers
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/bin/Debug/net5.0/03.Largest3Numbers.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/bin/Debug/net5.0/03.Largest3Numbers.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/bin/Debug/net5.0/03.Largest3Numbers.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/bin/Debug/net5.0/03.Largest3Numbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/bin/Debug/net5.0/03.Largest3Numbers.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/obj/Debug/net5.0/03.Largest3Numbers.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/obj/Debug/net5.0/03.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/obj/Debug/net5.0/03.Largest3Numbers.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/obj/Debug/net5.0/03.Largest3Numbers.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/obj/Debug/net5.0/03.Largest3Numbers.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/obj/Debug/net5.0/03.Largest3Numbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/obj/Debug/net5.0/refint/03.Largest3Numbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/obj/Debug/net5.0/03.Largest3Numbers.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/obj/Debug/net5.0/03.Largest3Numbers.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/03.Largest3Numbers/03.Largest3Numbers/obj/Debug/net5.0/ref/03.Largest3Numbers.dll
