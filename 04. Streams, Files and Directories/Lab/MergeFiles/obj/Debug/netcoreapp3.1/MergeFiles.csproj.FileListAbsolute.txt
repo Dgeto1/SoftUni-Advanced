@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/bin/Debug/netcoreapp3.1/MergeFiles
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/bin/Debug/netcoreapp3.1/MergeFiles.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/bin/Debug/netcoreapp3.1/MergeFiles.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/bin/Debug/netcoreapp3.1/MergeFiles.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/bin/Debug/netcoreapp3.1/MergeFiles.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/bin/Debug/netcoreapp3.1/MergeFiles.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/obj/Debug/netcoreapp3.1/MergeFiles.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/obj/Debug/netcoreapp3.1/MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/obj/Debug/netcoreapp3.1/MergeFiles.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/obj/Debug/netcoreapp3.1/MergeFiles.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/obj/Debug/netcoreapp3.1/MergeFiles.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/obj/Debug/netcoreapp3.1/MergeFiles.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/obj/Debug/netcoreapp3.1/MergeFiles.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/04. Streams, Files and Directories/Lab/MergeFiles/obj/Debug/netcoreapp3.1/MergeFiles.genruntimeconfig.cache
