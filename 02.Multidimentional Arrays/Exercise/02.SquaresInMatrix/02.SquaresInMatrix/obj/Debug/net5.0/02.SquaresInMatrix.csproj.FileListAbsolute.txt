@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/bin/Debug/net5.0/02.SquaresInMatrix
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/bin/Debug/net5.0/02.SquaresInMatrix.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/bin/Debug/net5.0/02.SquaresInMatrix.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/bin/Debug/net5.0/02.SquaresInMatrix.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/bin/Debug/net5.0/02.SquaresInMatrix.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/bin/Debug/net5.0/02.SquaresInMatrix.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/obj/Debug/net5.0/02.SquaresInMatrix.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/obj/Debug/net5.0/02.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/obj/Debug/net5.0/02.SquaresInMatrix.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/obj/Debug/net5.0/02.SquaresInMatrix.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/obj/Debug/net5.0/02.SquaresInMatrix.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/obj/Debug/net5.0/02.SquaresInMatrix.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/obj/Debug/net5.0/refint/02.SquaresInMatrix.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/obj/Debug/net5.0/02.SquaresInMatrix.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/obj/Debug/net5.0/02.SquaresInMatrix.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/02.SquaresInMatrix/02.SquaresInMatrix/obj/Debug/net5.0/ref/02.SquaresInMatrix.dll
