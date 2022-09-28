@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/bin/Debug/net5.0/04.AddVAT
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/bin/Debug/net5.0/04.AddVAT.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/bin/Debug/net5.0/04.AddVAT.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/bin/Debug/net5.0/04.AddVAT.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/bin/Debug/net5.0/04.AddVAT.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/bin/Debug/net5.0/04.AddVAT.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/obj/Debug/net5.0/04.AddVAT.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/obj/Debug/net5.0/04.AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/obj/Debug/net5.0/04.AddVAT.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/obj/Debug/net5.0/04.AddVAT.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/obj/Debug/net5.0/04.AddVAT.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/obj/Debug/net5.0/04.AddVAT.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/obj/Debug/net5.0/refint/04.AddVAT.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/obj/Debug/net5.0/04.AddVAT.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/obj/Debug/net5.0/04.AddVAT.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/04.AddVAT/04.AddVAT/obj/Debug/net5.0/ref/04.AddVAT.dll

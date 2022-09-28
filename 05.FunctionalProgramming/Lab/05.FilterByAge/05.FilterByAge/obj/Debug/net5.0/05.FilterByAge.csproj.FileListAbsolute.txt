@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/bin/Debug/net5.0/05.FilterByAge
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/bin/Debug/net5.0/05.FilterByAge.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/bin/Debug/net5.0/05.FilterByAge.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/bin/Debug/net5.0/05.FilterByAge.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/bin/Debug/net5.0/05.FilterByAge.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/bin/Debug/net5.0/05.FilterByAge.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/obj/Debug/net5.0/05.FilterByAge.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/obj/Debug/net5.0/05.FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/obj/Debug/net5.0/05.FilterByAge.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/obj/Debug/net5.0/05.FilterByAge.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/obj/Debug/net5.0/05.FilterByAge.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/obj/Debug/net5.0/05.FilterByAge.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/obj/Debug/net5.0/refint/05.FilterByAge.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/obj/Debug/net5.0/05.FilterByAge.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/obj/Debug/net5.0/05.FilterByAge.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/05.FilterByAge/05.FilterByAge/obj/Debug/net5.0/ref/05.FilterByAge.dll

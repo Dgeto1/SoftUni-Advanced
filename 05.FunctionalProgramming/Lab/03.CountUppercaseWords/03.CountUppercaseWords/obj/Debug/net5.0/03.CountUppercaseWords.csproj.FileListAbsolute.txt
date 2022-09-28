@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/bin/Debug/net5.0/03.CountUppercaseWords
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/bin/Debug/net5.0/03.CountUppercaseWords.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/bin/Debug/net5.0/03.CountUppercaseWords.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/bin/Debug/net5.0/03.CountUppercaseWords.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/bin/Debug/net5.0/03.CountUppercaseWords.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/bin/Debug/net5.0/03.CountUppercaseWords.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/obj/Debug/net5.0/03.CountUppercaseWords.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/obj/Debug/net5.0/03.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/obj/Debug/net5.0/03.CountUppercaseWords.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/obj/Debug/net5.0/03.CountUppercaseWords.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/obj/Debug/net5.0/03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/obj/Debug/net5.0/03.CountUppercaseWords.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/obj/Debug/net5.0/refint/03.CountUppercaseWords.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/obj/Debug/net5.0/03.CountUppercaseWords.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/obj/Debug/net5.0/03.CountUppercaseWords.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/03.CountUppercaseWords/03.CountUppercaseWords/obj/Debug/net5.0/ref/03.CountUppercaseWords.dll
