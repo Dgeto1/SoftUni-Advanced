@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/bin/Debug/net5.0/02.SumNumbers
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/bin/Debug/net5.0/02.SumNumbers.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/bin/Debug/net5.0/02.SumNumbers.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/bin/Debug/net5.0/02.SumNumbers.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/bin/Debug/net5.0/02.SumNumbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/bin/Debug/net5.0/02.SumNumbers.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/obj/Debug/net5.0/02.SumNumbers.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/obj/Debug/net5.0/02.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/obj/Debug/net5.0/02.SumNumbers.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/obj/Debug/net5.0/02.SumNumbers.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/obj/Debug/net5.0/02.SumNumbers.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/obj/Debug/net5.0/02.SumNumbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/obj/Debug/net5.0/refint/02.SumNumbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/obj/Debug/net5.0/02.SumNumbers.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/obj/Debug/net5.0/02.SumNumbers.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/02.SumNumbers/02.SumNumbers/obj/Debug/net5.0/ref/02.SumNumbers.dll

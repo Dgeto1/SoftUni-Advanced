@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0BF40B54-F0E6-4451-B849-325E57490488}|Default">
+  <MonoDevelop.Ide.ItemProperties.04.AddVAT PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.AddVAT/Program.cs">
+    <Files>
+      <File FileName="04.AddVAT/Program.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="04.AddVAT" expanded="True">
+            <Node name="04.AddVAT" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

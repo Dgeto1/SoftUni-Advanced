@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8D7CE583-6D0B-43AB-B7F2-BCBF38A48CB3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.CountUppercaseWords/Program.cs">
+    <Files>
+      <File FileName="03.CountUppercaseWords/Program.cs" Line="11" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03.CountUppercaseWords" expanded="True">
+            <Node name="03.CountUppercaseWords" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.CountUppercaseWords PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

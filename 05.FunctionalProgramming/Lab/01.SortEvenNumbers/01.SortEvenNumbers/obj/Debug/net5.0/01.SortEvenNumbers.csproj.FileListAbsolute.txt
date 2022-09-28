@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/bin/Debug/net5.0/01.SortEvenNumbers
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/bin/Debug/net5.0/01.SortEvenNumbers.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/bin/Debug/net5.0/01.SortEvenNumbers.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/bin/Debug/net5.0/01.SortEvenNumbers.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/bin/Debug/net5.0/01.SortEvenNumbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/bin/Debug/net5.0/01.SortEvenNumbers.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/obj/Debug/net5.0/01.SortEvenNumbers.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/obj/Debug/net5.0/01.SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/obj/Debug/net5.0/01.SortEvenNumbers.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/obj/Debug/net5.0/01.SortEvenNumbers.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/obj/Debug/net5.0/01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/obj/Debug/net5.0/01.SortEvenNumbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/obj/Debug/net5.0/refint/01.SortEvenNumbers.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/obj/Debug/net5.0/01.SortEvenNumbers.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/obj/Debug/net5.0/01.SortEvenNumbers.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Lab/01.SortEvenNumbers/01.SortEvenNumbers/obj/Debug/net5.0/ref/01.SortEvenNumbers.dll
