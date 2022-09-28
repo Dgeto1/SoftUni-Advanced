@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/bin/Debug/net5.0/01.DiagonalDifference
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/bin/Debug/net5.0/01.DiagonalDifference.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/bin/Debug/net5.0/01.DiagonalDifference.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/bin/Debug/net5.0/01.DiagonalDifference.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/bin/Debug/net5.0/01.DiagonalDifference.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/bin/Debug/net5.0/01.DiagonalDifference.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/obj/Debug/net5.0/01.DiagonalDifference.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/obj/Debug/net5.0/01.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/obj/Debug/net5.0/01.DiagonalDifference.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/obj/Debug/net5.0/01.DiagonalDifference.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/obj/Debug/net5.0/01.DiagonalDifference.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/obj/Debug/net5.0/01.DiagonalDifference.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/obj/Debug/net5.0/refint/01.DiagonalDifference.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/obj/Debug/net5.0/01.DiagonalDifference.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/obj/Debug/net5.0/01.DiagonalDifference.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/01.DiagonalDifference/01.DiagonalDifference/obj/Debug/net5.0/ref/01.DiagonalDifference.dll

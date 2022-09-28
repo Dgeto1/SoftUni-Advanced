@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{056FB132-1270-44DF-94E8-0D1F26F8835E}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.SquaresInMatrix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.SquaresInMatrix/Program.cs">
+    <Files>
+      <File FileName="02.SquaresInMatrix/Program.cs" Line="17" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02.SquaresInMatrix" expanded="True">
+            <Node name="02.SquaresInMatrix" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
