@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/bin/Debug/net5.0/05.SquareWithMaxSum
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/bin/Debug/net5.0/05.SquareWithMaxSum.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/bin/Debug/net5.0/05.SquareWithMaxSum.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/bin/Debug/net5.0/05.SquareWithMaxSum.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/bin/Debug/net5.0/05.SquareWithMaxSum.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/bin/Debug/net5.0/05.SquareWithMaxSum.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/obj/Debug/net5.0/05.SquareWithMaxSum.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/obj/Debug/net5.0/05.SquareWithMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/obj/Debug/net5.0/05.SquareWithMaxSum.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/obj/Debug/net5.0/05.SquareWithMaxSum.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/obj/Debug/net5.0/05.SquareWithMaxSum.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/obj/Debug/net5.0/05.SquareWithMaxSum.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/obj/Debug/net5.0/refint/05.SquareWithMaxSum.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/obj/Debug/net5.0/05.SquareWithMaxSum.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/obj/Debug/net5.0/05.SquareWithMaxSum.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Lab/05.SquareWithMaxSum/05.SquareWithMaxSum/obj/Debug/net5.0/ref/05.SquareWithMaxSum.dll
