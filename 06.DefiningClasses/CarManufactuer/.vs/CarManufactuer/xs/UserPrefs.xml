@@ -1,20 +1,23 @@
-﻿<Properties StartupConfiguration="{06EFA6B4-B91D-4E42-B3B6-5CAB10AAD328}|Default">
+﻿<Properties>
+  <DisabledProjects>
+    <String>CarManufactuer/CarManufactuer.csproj</String>
+  </DisabledProjects>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MergeFiles PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MergeFiles.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarManufactuer/Program.cs">
     <Files>
-      <File FileName="../WordCount/WordCount.cs" Line="50" Column="1" />
-      <File FileName="MergeFiles.cs" Line="63" Column="30" />
+      <File FileName="CarManufactuer/Program.cs" Line="5" Column="25" />
+      <File FileName="CarManufactuer/Car.cs" />
+      <File FileName="CarManufactuer/StartUp.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MergeFiles" expanded="True" />
+          <Node name="CarManufactuer" expanded="True" />
         </State>
       </Pad>
     </Pads>

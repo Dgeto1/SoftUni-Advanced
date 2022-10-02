@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/bin/Debug/net5.0/03.MaximalSum
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/bin/Debug/net5.0/03.MaximalSum.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/bin/Debug/net5.0/03.MaximalSum.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/bin/Debug/net5.0/03.MaximalSum.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/bin/Debug/net5.0/03.MaximalSum.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/bin/Debug/net5.0/03.MaximalSum.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/obj/Debug/net5.0/03.MaximalSum.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/obj/Debug/net5.0/03.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/obj/Debug/net5.0/03.MaximalSum.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/obj/Debug/net5.0/03.MaximalSum.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/obj/Debug/net5.0/03.MaximalSum.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/obj/Debug/net5.0/03.MaximalSum.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/obj/Debug/net5.0/refint/03.MaximalSum.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/obj/Debug/net5.0/03.MaximalSum.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/obj/Debug/net5.0/03.MaximalSum.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/03.MaximalSum/03.MaximalSum/obj/Debug/net5.0/ref/03.MaximalSum.dll
