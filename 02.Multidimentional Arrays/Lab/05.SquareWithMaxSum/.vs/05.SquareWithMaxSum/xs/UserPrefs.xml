@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{14663CBE-27E3-4A12-9DA1-D1620B0A9D80}|Default">
-  <MonoDevelop.Ide.ItemProperties.05.SquareWithMaxSum FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05.SquareWithMaxSum PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.SquareWithMaxSum/Program.cs">
+    <Files>
+      <File FileName="05.SquareWithMaxSum/Program.cs" Line="45" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05.SquareWithMaxSum" expanded="True">
+            <Node name="05.SquareWithMaxSum" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
