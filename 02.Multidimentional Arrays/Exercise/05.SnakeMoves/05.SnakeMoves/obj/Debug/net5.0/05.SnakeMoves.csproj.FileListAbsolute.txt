@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/bin/Debug/net5.0/05.SnakeMoves
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/bin/Debug/net5.0/05.SnakeMoves.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/bin/Debug/net5.0/05.SnakeMoves.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/bin/Debug/net5.0/05.SnakeMoves.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/bin/Debug/net5.0/05.SnakeMoves.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/bin/Debug/net5.0/05.SnakeMoves.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/obj/Debug/net5.0/05.SnakeMoves.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/obj/Debug/net5.0/05.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/obj/Debug/net5.0/05.SnakeMoves.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/obj/Debug/net5.0/05.SnakeMoves.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/obj/Debug/net5.0/05.SnakeMoves.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/obj/Debug/net5.0/05.SnakeMoves.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/obj/Debug/net5.0/refint/05.SnakeMoves.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/obj/Debug/net5.0/05.SnakeMoves.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/obj/Debug/net5.0/05.SnakeMoves.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/05.SnakeMoves/05.SnakeMoves/obj/Debug/net5.0/ref/05.SnakeMoves.dll
