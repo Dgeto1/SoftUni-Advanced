@@ -1,0 +1,16 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/bin/Debug/net5.0/04.MatrixShuffling
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/bin/Debug/net5.0/04.MatrixShuffling.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/bin/Debug/net5.0/04.MatrixShuffling.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/bin/Debug/net5.0/04.MatrixShuffling.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/bin/Debug/net5.0/04.MatrixShuffling.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/bin/Debug/net5.0/04.MatrixShuffling.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/obj/Debug/net5.0/04.MatrixShuffling.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/obj/Debug/net5.0/04.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/obj/Debug/net5.0/04.MatrixShuffling.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/obj/Debug/net5.0/04.MatrixShuffling.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/obj/Debug/net5.0/04.MatrixShuffling.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/obj/Debug/net5.0/04.MatrixShuffling.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/obj/Debug/net5.0/refint/04.MatrixShuffling.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/obj/Debug/net5.0/04.MatrixShuffling.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/obj/Debug/net5.0/04.MatrixShuffling.genruntimeconfig.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/04.MatrixShuffling/04.MatrixShuffling/obj/Debug/net5.0/ref/04.MatrixShuffling.dll
