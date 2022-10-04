@@ -41,12 +41,11 @@ namespace _05.SquareWithMaxSum
             {
                 for (int j = 0; j < maxMatrix.GetLength(1); j++)
                 {
-                    Console.Write(String.Join(" ", maxMatrix[i,j]));
+                    Console.Write(String.Join(" ", maxMatrix[i,j]) + " ");
                 }
                 Console.WriteLine();
             }
             Console.WriteLine(maxSum);
-            Console.Read();
         }
     }
 }
