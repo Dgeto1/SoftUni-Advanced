@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8U9MCl4ddfHSZDFT4fVdQs5zMuyaSIqgIhu6bbv8jfcOMorL4pcK1Q24EwlbBoxizH9fu4XrsnufJXdtYdw1WA==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02.Multidimentional Arrays/Exercise/07.KnightGame/07.KnightGame/07.KnightGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

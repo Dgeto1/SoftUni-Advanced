@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/bin/Debug/netcoreapp3.1/05.AppliedArithmetics
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/bin/Debug/netcoreapp3.1/05.AppliedArithmetics.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/bin/Debug/netcoreapp3.1/05.AppliedArithmetics.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/bin/Debug/netcoreapp3.1/05.AppliedArithmetics.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/bin/Debug/netcoreapp3.1/05.AppliedArithmetics.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/bin/Debug/netcoreapp3.1/05.AppliedArithmetics.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/obj/Debug/netcoreapp3.1/05.AppliedArithmetics.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/obj/Debug/netcoreapp3.1/05.AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/obj/Debug/netcoreapp3.1/05.AppliedArithmetics.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/obj/Debug/netcoreapp3.1/05.AppliedArithmetics.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/obj/Debug/netcoreapp3.1/05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/obj/Debug/netcoreapp3.1/05.AppliedArithmetics.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/obj/Debug/netcoreapp3.1/05.AppliedArithmetics.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/05.AppliedArithmetics/05.AppliedArithmetics/obj/Debug/netcoreapp3.1/05.AppliedArithmetics.genruntimeconfig.cache

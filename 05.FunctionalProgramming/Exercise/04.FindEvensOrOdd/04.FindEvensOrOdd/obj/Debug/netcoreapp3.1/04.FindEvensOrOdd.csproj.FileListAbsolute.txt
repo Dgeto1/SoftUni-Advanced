@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/bin/Debug/netcoreapp3.1/04.FindEvensOrOdd
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/bin/Debug/netcoreapp3.1/04.FindEvensOrOdd.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/bin/Debug/netcoreapp3.1/04.FindEvensOrOdd.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/bin/Debug/netcoreapp3.1/04.FindEvensOrOdd.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/bin/Debug/netcoreapp3.1/04.FindEvensOrOdd.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/bin/Debug/netcoreapp3.1/04.FindEvensOrOdd.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/obj/Debug/netcoreapp3.1/04.FindEvensOrOdd.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/obj/Debug/netcoreapp3.1/04.FindEvensOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/obj/Debug/netcoreapp3.1/04.FindEvensOrOdd.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/obj/Debug/netcoreapp3.1/04.FindEvensOrOdd.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/obj/Debug/netcoreapp3.1/04.FindEvensOrOdd.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/obj/Debug/netcoreapp3.1/04.FindEvensOrOdd.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/obj/Debug/netcoreapp3.1/04.FindEvensOrOdd.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/04.FindEvensOrOdd/04.FindEvensOrOdd/obj/Debug/netcoreapp3.1/04.FindEvensOrOdd.genruntimeconfig.cache

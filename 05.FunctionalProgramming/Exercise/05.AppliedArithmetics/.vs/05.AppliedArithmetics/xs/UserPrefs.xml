@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{FC80A065-E8A9-4DB5-AA25-94FD7DEBF75B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.AppliedArithmetics/Program.cs">
+    <Files>
+      <File FileName="05.AppliedArithmetics/Program.cs" Line="38" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05.AppliedArithmetics" expanded="True">
+            <Node name="05.AppliedArithmetics" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05.AppliedArithmetics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

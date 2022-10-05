@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/bin/Debug/netcoreapp3.1/06.ReverseEndExclude
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/bin/Debug/netcoreapp3.1/06.ReverseEndExclude.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/bin/Debug/netcoreapp3.1/06.ReverseEndExclude.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/bin/Debug/netcoreapp3.1/06.ReverseEndExclude.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/bin/Debug/netcoreapp3.1/06.ReverseEndExclude.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/bin/Debug/netcoreapp3.1/06.ReverseEndExclude.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/obj/Debug/netcoreapp3.1/06.ReverseEndExclude.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/obj/Debug/netcoreapp3.1/06.ReverseEndExclude.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/obj/Debug/netcoreapp3.1/06.ReverseEndExclude.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/obj/Debug/netcoreapp3.1/06.ReverseEndExclude.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/obj/Debug/netcoreapp3.1/06.ReverseEndExclude.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/obj/Debug/netcoreapp3.1/06.ReverseEndExclude.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/obj/Debug/netcoreapp3.1/06.ReverseEndExclude.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/05.FunctionalProgramming/Exercise/06.ReverseEndExclude/06.ReverseEndExclude/obj/Debug/netcoreapp3.1/06.ReverseEndExclude.genruntimeconfig.cache
