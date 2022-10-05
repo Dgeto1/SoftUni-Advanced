@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I25r4iPvpKfX+2B+Op9NZ78UzP50fNHXPYKyhfyFnv7yZRXpTANayHv7hH2c29DUH3HPv/rysih32CUk4Zj/ZA==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/CarManufacturer.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

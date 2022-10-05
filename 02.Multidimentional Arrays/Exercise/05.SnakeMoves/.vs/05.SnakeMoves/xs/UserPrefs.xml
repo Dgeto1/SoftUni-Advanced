@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{4C621E25-131A-4A13-9DF0-C47854AFF556}|Default">
-  <MonoDevelop.Ide.ItemProperties.05.SnakeMoves FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05.SnakeMoves PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../05.SnakeMoves/Program.cs" line="23" column="28" endLine="23" endColumn="35" offsetX="-1" offsetY="-1" expression="counter" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.SnakeMoves/Program.cs">
+    <Files>
+      <File FileName="05.SnakeMoves/Program.cs" Line="20" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05.SnakeMoves" expanded="True">
+            <Node name="05.SnakeMoves" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

@@ -17,7 +17,7 @@ namespace _05.SnakeMoves
             {
                 if(i%2!=0)
                 {
-                    for (int j = matrix.GetLength(1); j >= 0; j--)
+                    for (int j = matrix.GetLength(1)-1; j >= 0; j--)
                     {
                         if(counter == snake.Length)
                         {
