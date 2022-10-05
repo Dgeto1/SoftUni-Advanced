@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{026D0599-C508-4F81-869A-906F74B6AEC3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DefiningClasses/Person.cs">
+    <Files>
+      <File FileName="DefiningClasses/Program.cs" Line="5" Column="25" />
+      <File FileName="DefiningClasses/Person.cs" Line="27" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DefiningClasses" expanded="True">
+            <Node name="DefiningClasses" expanded="True">
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DefiningClasses FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

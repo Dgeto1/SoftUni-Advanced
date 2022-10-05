@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D605DC38-4C84-4BFF-BDB6-FDF3D0885CC1}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="07.PredicateforNames/Program.cs">
+    <Files>
+      <File FileName="07.PredicateforNames/Program.cs" Line="17" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="07.PredicateforNames" expanded="True">
+            <Node name="07.PredicateforNames" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.07.PredicateforNames FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../06.ReverseEndExclude/06.ReverseEndExclude/Program.cs" line="15" column="20" endLine="15" endColumn="27" offsetX="-1" offsetY="-1" expression="numbers" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
