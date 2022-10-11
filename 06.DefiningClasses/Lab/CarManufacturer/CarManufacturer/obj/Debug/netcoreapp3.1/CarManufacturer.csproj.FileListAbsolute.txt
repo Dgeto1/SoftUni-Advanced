@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/bin/Debug/netcoreapp3.1/CarManufacturer
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/bin/Debug/netcoreapp3.1/CarManufacturer.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/bin/Debug/netcoreapp3.1/CarManufacturer.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/bin/Debug/netcoreapp3.1/CarManufacturer.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/bin/Debug/netcoreapp3.1/CarManufacturer.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/bin/Debug/netcoreapp3.1/CarManufacturer.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/obj/Debug/netcoreapp3.1/CarManufacturer.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/obj/Debug/netcoreapp3.1/CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/obj/Debug/netcoreapp3.1/CarManufacturer.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/obj/Debug/netcoreapp3.1/CarManufacturer.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/obj/Debug/netcoreapp3.1/CarManufacturer.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/obj/Debug/netcoreapp3.1/CarManufacturer.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/obj/Debug/netcoreapp3.1/CarManufacturer.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Lab/CarManufacturer/CarManufacturer/obj/Debug/netcoreapp3.1/CarManufacturer.genruntimeconfig.cache

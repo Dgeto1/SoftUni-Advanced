@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/bin/Debug/netcoreapp3.1/DefiningClasses
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/bin/Debug/netcoreapp3.1/DefiningClasses.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/bin/Debug/netcoreapp3.1/DefiningClasses.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/bin/Debug/netcoreapp3.1/DefiningClasses.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/bin/Debug/netcoreapp3.1/DefiningClasses.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/bin/Debug/netcoreapp3.1/DefiningClasses.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/obj/Debug/netcoreapp3.1/DefiningClasses.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/obj/Debug/netcoreapp3.1/DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/obj/Debug/netcoreapp3.1/DefiningClasses.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/obj/Debug/netcoreapp3.1/DefiningClasses.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/obj/Debug/netcoreapp3.1/DefiningClasses.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/obj/Debug/netcoreapp3.1/DefiningClasses.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/obj/Debug/netcoreapp3.1/DefiningClasses.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/06.DefiningClasses/Exercise/DefiningClasses/DefiningClasses/obj/Debug/netcoreapp3.1/DefiningClasses.genruntimeconfig.cache

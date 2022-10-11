@@ -10,7 +10,7 @@ namespace CarManufacturer
         private double fuelQuantity;
         private double fuelConsumption;
         private Engine engine;
-        private Tire[] tires;
+        private Tire tires;
 
         public string Make
         {
@@ -42,7 +42,7 @@ namespace CarManufacturer
             get { return engine; }
             set { this.engine = value; }
         }
-        public Tire[] Tires
+        public Tire Tires
         {
             get { return tires; }
             set { this.tires = value; }
@@ -70,7 +70,7 @@ namespace CarManufacturer
             this.FuelConsumption = fuelConsumption;
         }
 
-        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption, Engine engine, Tire[] tires) : this(make, model, year, fuelQuantity, fuelConsumption)
+        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption, Engine engine, Tire tires) : this(make, model, year, fuelQuantity, fuelConsumption)
         {
             this.Engine = engine;
             this.Tires = tires;
@@ -92,6 +92,11 @@ namespace CarManufacturer
         public string WhoAmI()
         {
             return $"Make: {this.Make}\nModel: {this.Model}\nYear: {this.Year}\nFuel: {this.FuelQuantity:f2}";
+        }
+
+        public override string ToString()
+        {
+            return $"Make: {this.Make}\nModel: {this.Model}\nYear: {this.Year}\nHorsePowers: {this.Engine.HorsePower}\n FuelQuantity: {this.FuelQuantity}";
         }
     }
 }

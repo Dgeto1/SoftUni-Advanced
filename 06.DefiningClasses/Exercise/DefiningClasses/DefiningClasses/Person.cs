@@ -24,7 +24,7 @@ namespace DefiningClasses
 		public Person(int age)
 		{
 			Name = "No name";
-			this.Age = age;
+			this.Age = age;	
 		}
 		public Person(string name, int age)
 		{
