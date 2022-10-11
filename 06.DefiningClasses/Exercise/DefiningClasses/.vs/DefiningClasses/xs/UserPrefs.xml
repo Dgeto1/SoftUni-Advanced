@@ -3,24 +3,25 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="DefiningClasses/Person.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DefiningClasses/Program.cs">
     <Files>
-      <File FileName="DefiningClasses/Program.cs" Line="5" Column="25" />
-      <File FileName="DefiningClasses/Person.cs" Line="27" Column="19" />
+      <File FileName="DefiningClasses/Program.cs" Line="27" Column="10" />
+      <File FileName="DefiningClasses/Person.cs" Line="27" Column="20" />
+      <File FileName="DefiningClasses/Family.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DefiningClasses" expanded="True">
             <Node name="DefiningClasses" expanded="True">
-              <Node name="Person.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.DefiningClasses FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DefiningClasses PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
