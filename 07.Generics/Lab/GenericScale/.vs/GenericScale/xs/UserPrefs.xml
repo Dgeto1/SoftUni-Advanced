@@ -1,4 +1,24 @@
 ﻿<Properties StartupConfiguration="{D6070E1C-9A11-47B1-AED9-A748C8BB030F}|Default">
-  <MonoDevelop.Ide.ItemProperties.GenericScale FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.GenericScale PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericScale/EqualityScale.cs">
+    <Files>
+      <File FileName="GenericScale/Program.cs" Line="10" Column="47" />
+      <File FileName="GenericScale/EqualityScale.cs" Line="13" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GenericScale" expanded="True">
+            <Node name="GenericScale" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>

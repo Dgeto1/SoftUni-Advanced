@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/bin/Debug/netcoreapp3.1/03.GenericSwapMethodStrings
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/bin/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/bin/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/bin/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/bin/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/bin/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/obj/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/obj/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/obj/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/obj/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/obj/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/obj/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/obj/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/obj/Debug/netcoreapp3.1/03.GenericSwapMethodStrings.genruntimeconfig.cache

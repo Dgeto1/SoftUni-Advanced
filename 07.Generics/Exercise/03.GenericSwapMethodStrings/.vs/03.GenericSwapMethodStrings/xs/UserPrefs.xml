@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{0BBC1F1E-38B9-4EE8-8D2F-7A93232ED2B1}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.GenericSwapMethodStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.GenericSwapMethodStrings/Program.cs">
+    <Files>
+      <File FileName="03.GenericSwapMethodStrings/Program.cs" Line="17" Column="14" />
+      <File FileName="03.GenericSwapMethodStrings/Box.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03.GenericSwapMethodStrings" expanded="True">
+            <Node name="03.GenericSwapMethodStrings" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
