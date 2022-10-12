@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UpPf5A+HFEfyBsWkE5hum//KRL26d1Efk3BTJQKbokWHlJVVUd3URNeQsoTjxneMpD9cNQtCttXkf9V3Tpw2Qw==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/BoxOfT/BoxOfT/BoxOfT.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

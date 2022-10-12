@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/bin/Debug/netcoreapp3.1/GenericArrayCreator
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/bin/Debug/netcoreapp3.1/GenericArrayCreator.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/bin/Debug/netcoreapp3.1/GenericArrayCreator.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/bin/Debug/netcoreapp3.1/GenericArrayCreator.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/bin/Debug/netcoreapp3.1/GenericArrayCreator.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/bin/Debug/netcoreapp3.1/GenericArrayCreator.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericArrayCreator/GenericArrayCreator/obj/Debug/netcoreapp3.1/GenericArrayCreator.genruntimeconfig.cache
