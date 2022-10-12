@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/bin/Debug/netcoreapp3.1/GenericScale
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/bin/Debug/netcoreapp3.1/GenericScale.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/bin/Debug/netcoreapp3.1/GenericScale.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/bin/Debug/netcoreapp3.1/GenericScale.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/bin/Debug/netcoreapp3.1/GenericScale.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/bin/Debug/netcoreapp3.1/GenericScale.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/obj/Debug/netcoreapp3.1/GenericScale.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/obj/Debug/netcoreapp3.1/GenericScale.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/obj/Debug/netcoreapp3.1/GenericScale.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/obj/Debug/netcoreapp3.1/GenericScale.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/obj/Debug/netcoreapp3.1/GenericScale.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/obj/Debug/netcoreapp3.1/GenericScale.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/obj/Debug/netcoreapp3.1/GenericScale.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/GenericScale/GenericScale/obj/Debug/netcoreapp3.1/GenericScale.genruntimeconfig.cache

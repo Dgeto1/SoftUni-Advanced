@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{AFEE9AB0-D066-4C51-926E-05C8A411A4B1}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BoxOfT FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoxOfT/Box.cs">
+    <Files>
+      <File FileName="BoxOfT/Program.cs" Line="5" Column="25" />
+      <File FileName="BoxOfT/Box.cs" Line="21" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BoxOfT" expanded="True">
+            <Node name="BoxOfT" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

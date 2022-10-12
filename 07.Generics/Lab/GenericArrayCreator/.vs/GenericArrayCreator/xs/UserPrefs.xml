@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{1E82E692-F7FC-42FB-AF28-981C673CBCDB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GenericArrayCreator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericArrayCreator/Program.cs">
+    <Files>
+      <File FileName="GenericArrayCreator/Program.cs" Line="15" Column="1" />
+      <File FileName="GenericArrayCreator/ArrayCreator.cs" Line="16" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GenericArrayCreator" expanded="True">
+            <Node name="GenericArrayCreator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
