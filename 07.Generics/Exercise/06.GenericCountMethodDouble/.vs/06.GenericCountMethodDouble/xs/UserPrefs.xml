@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8BE7897F-55B9-4EA4-AE47-DDDE59925FA9}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.06.GenericCountMethodDouble FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.GenericCountMethodDouble/Program.cs">
+    <Files>
+      <File FileName="06.GenericCountMethodDouble/Program.cs" Line="17" Column="41" />
+      <File FileName="06.GenericCountMethodDouble/Box.cs" Line="5" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="06.GenericCountMethodDouble" expanded="True">
+            <Node name="06.GenericCountMethodDouble" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/bin/Debug/netcoreapp3.1/02.GenericBoxOfInteger
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/bin/Debug/netcoreapp3.1/02.GenericBoxOfInteger.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/bin/Debug/netcoreapp3.1/02.GenericBoxOfInteger.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/bin/Debug/netcoreapp3.1/02.GenericBoxOfInteger.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/bin/Debug/netcoreapp3.1/02.GenericBoxOfInteger.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/bin/Debug/netcoreapp3.1/02.GenericBoxOfInteger.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/obj/Debug/netcoreapp3.1/02.GenericBoxOfInteger.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/obj/Debug/netcoreapp3.1/02.GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/obj/Debug/netcoreapp3.1/02.GenericBoxOfInteger.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/obj/Debug/netcoreapp3.1/02.GenericBoxOfInteger.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/obj/Debug/netcoreapp3.1/02.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/obj/Debug/netcoreapp3.1/02.GenericBoxOfInteger.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/obj/Debug/netcoreapp3.1/02.GenericBoxOfInteger.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/02.GenericBoxOfInteger/02.GenericBoxOfInteger/obj/Debug/netcoreapp3.1/02.GenericBoxOfInteger.genruntimeconfig.cache

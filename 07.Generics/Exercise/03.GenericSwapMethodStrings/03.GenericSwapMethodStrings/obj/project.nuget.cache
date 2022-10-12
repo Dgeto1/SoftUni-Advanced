@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RX1xESqQEoVM7dn0tjE63gSwkhGxWyXneTzPCrFpxES6qB1bex5GQ9Jazao5RG1+Js2ZSsk345NySIRAWyg9wg==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings/03.GenericSwapMethodStrings.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

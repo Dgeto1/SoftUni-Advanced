@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/bin/Debug/netcoreapp3.1/01.GenericBoxOfString
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/bin/Debug/netcoreapp3.1/01.GenericBoxOfString.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/bin/Debug/netcoreapp3.1/01.GenericBoxOfString.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/bin/Debug/netcoreapp3.1/01.GenericBoxOfString.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/bin/Debug/netcoreapp3.1/01.GenericBoxOfString.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/bin/Debug/netcoreapp3.1/01.GenericBoxOfString.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/obj/Debug/netcoreapp3.1/01.GenericBoxOfString.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/obj/Debug/netcoreapp3.1/01.GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/obj/Debug/netcoreapp3.1/01.GenericBoxOfString.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/obj/Debug/netcoreapp3.1/01.GenericBoxOfString.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/obj/Debug/netcoreapp3.1/01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/obj/Debug/netcoreapp3.1/01.GenericBoxOfString.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/obj/Debug/netcoreapp3.1/01.GenericBoxOfString.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/01.GenericBoxOfString/01.GenericBoxOfString/obj/Debug/netcoreapp3.1/01.GenericBoxOfString.genruntimeconfig.cache
