@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/bin/Debug/netcoreapp3.1/07.Tuple
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/bin/Debug/netcoreapp3.1/07.Tuple.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/bin/Debug/netcoreapp3.1/07.Tuple.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/bin/Debug/netcoreapp3.1/07.Tuple.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/bin/Debug/netcoreapp3.1/07.Tuple.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/bin/Debug/netcoreapp3.1/07.Tuple.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/obj/Debug/netcoreapp3.1/07.Tuple.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/obj/Debug/netcoreapp3.1/07.Tuple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/obj/Debug/netcoreapp3.1/07.Tuple.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/obj/Debug/netcoreapp3.1/07.Tuple.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/obj/Debug/netcoreapp3.1/07.Tuple.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/obj/Debug/netcoreapp3.1/07.Tuple.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/obj/Debug/netcoreapp3.1/07.Tuple.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Lab/07.Tuple/07.Tuple/obj/Debug/netcoreapp3.1/07.Tuple.genruntimeconfig.cache
