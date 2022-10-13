@@ -8,15 +8,13 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="07.Tuple/Program.cs">
     <Files>
       <File FileName="07.Tuple/Program.cs" Line="16" Column="52" />
-      <File FileName="07.Tuple/Tuple.cs" Line="11" Column="41" />
+      <File FileName="07.Tuple/Tuple.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="07.Tuple" expanded="True">
-            <Node name="07.Tuple" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="07.Tuple" expanded="True" />
           </Node>
         </State>
       </Pad>
