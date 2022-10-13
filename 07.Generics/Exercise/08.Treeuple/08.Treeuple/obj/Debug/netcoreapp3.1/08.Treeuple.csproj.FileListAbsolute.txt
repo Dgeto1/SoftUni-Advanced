@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/bin/Debug/netcoreapp3.1/08.Treeuple
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/bin/Debug/netcoreapp3.1/08.Treeuple.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/bin/Debug/netcoreapp3.1/08.Treeuple.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/bin/Debug/netcoreapp3.1/08.Treeuple.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/bin/Debug/netcoreapp3.1/08.Treeuple.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/bin/Debug/netcoreapp3.1/08.Treeuple.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/obj/Debug/netcoreapp3.1/08.Treeuple.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/obj/Debug/netcoreapp3.1/08.Treeuple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/obj/Debug/netcoreapp3.1/08.Treeuple.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/obj/Debug/netcoreapp3.1/08.Treeuple.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/obj/Debug/netcoreapp3.1/08.Treeuple.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/obj/Debug/netcoreapp3.1/08.Treeuple.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/obj/Debug/netcoreapp3.1/08.Treeuple.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/07.Generics/Exercise/08.Treeuple/08.Treeuple/obj/Debug/netcoreapp3.1/08.Treeuple.genruntimeconfig.cache
