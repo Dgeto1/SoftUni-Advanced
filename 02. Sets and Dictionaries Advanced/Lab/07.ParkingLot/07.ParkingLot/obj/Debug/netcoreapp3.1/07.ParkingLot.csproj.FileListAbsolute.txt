@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/bin/Debug/netcoreapp3.1/07.ParkingLot
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/bin/Debug/netcoreapp3.1/07.ParkingLot.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/bin/Debug/netcoreapp3.1/07.ParkingLot.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/bin/Debug/netcoreapp3.1/07.ParkingLot.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/bin/Debug/netcoreapp3.1/07.ParkingLot.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/bin/Debug/netcoreapp3.1/07.ParkingLot.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/obj/Debug/netcoreapp3.1/07.ParkingLot.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/obj/Debug/netcoreapp3.1/07.ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/obj/Debug/netcoreapp3.1/07.ParkingLot.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/obj/Debug/netcoreapp3.1/07.ParkingLot.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/obj/Debug/netcoreapp3.1/07.ParkingLot.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/obj/Debug/netcoreapp3.1/07.ParkingLot.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/obj/Debug/netcoreapp3.1/07.ParkingLot.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/02. Sets and Dictionaries Advanced/Lab/07.ParkingLot/07.ParkingLot/obj/Debug/netcoreapp3.1/07.ParkingLot.genruntimeconfig.cache
