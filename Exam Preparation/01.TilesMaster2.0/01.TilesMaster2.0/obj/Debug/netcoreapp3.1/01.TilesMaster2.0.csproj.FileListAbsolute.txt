@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/bin/Debug/netcoreapp3.1/01.TilesMaster2.0
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/bin/Debug/netcoreapp3.1/01.TilesMaster2.0.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/bin/Debug/netcoreapp3.1/01.TilesMaster2.0.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/bin/Debug/netcoreapp3.1/01.TilesMaster2.0.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/bin/Debug/netcoreapp3.1/01.TilesMaster2.0.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/bin/Debug/netcoreapp3.1/01.TilesMaster2.0.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/obj/Debug/netcoreapp3.1/01.TilesMaster2.0.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/obj/Debug/netcoreapp3.1/01.TilesMaster2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/obj/Debug/netcoreapp3.1/01.TilesMaster2.0.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/obj/Debug/netcoreapp3.1/01.TilesMaster2.0.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/obj/Debug/netcoreapp3.1/01.TilesMaster2.0.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/obj/Debug/netcoreapp3.1/01.TilesMaster2.0.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/obj/Debug/netcoreapp3.1/01.TilesMaster2.0.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.TilesMaster2.0/01.TilesMaster2.0/obj/Debug/netcoreapp3.1/01.TilesMaster2.0.genruntimeconfig.cache
