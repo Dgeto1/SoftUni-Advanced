@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{80F11C44-7DE6-473D-974F-9FAD8B58E4DB}|Default">
+﻿<Properties StartupConfiguration="{B5FA6F13-E49A-4BF6-B2B3-B89B38CBA0D9}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../../01.TilesMaster2.0/01.TilesMaster2.0/Program.cs" line="26" column="28" endLine="26" endColumn="47" offsetX="-1" offsetY="-1" expression="sum" liveUpdate="False" />
@@ -6,24 +6,20 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Renovators PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Catalog.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.TruffleHunter/Program.cs">
     <Files>
-      <File FileName="StartUp.cs" Line="1" Column="1" />
-      <File FileName="Renovator.cs" Line="33" Column="90" />
-      <File FileName="Catalog.cs" Line="103" Column="24" />
+      <File FileName="02.TruffleHunter/Program.cs" Line="58" Column="51" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Renovators" expanded="True">
-            <Node name="Renovators" expanded="True">
-              <Node name="Catalog.cs" selected="True" />
-            </Node>
+          <Node name="02.TruffleHunter" expanded="True">
+            <Node name="02.TruffleHunter" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02.TruffleHunter PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

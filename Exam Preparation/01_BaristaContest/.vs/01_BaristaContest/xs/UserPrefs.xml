@@ -1,25 +1,21 @@
-﻿<Properties StartupConfiguration="{80F11C44-7DE6-473D-974F-9FAD8B58E4DB}|Default">
+﻿<Properties StartupConfiguration="{123C5CB3-97ED-46CD-BF58-90C2CCC5F9F3}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../../01.TilesMaster2.0/01.TilesMaster2.0/Program.cs" line="26" column="28" endLine="26" endColumn="47" offsetX="-1" offsetY="-1" expression="sum" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.01__BaristaContest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Renovators PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Catalog.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="01_BaristaContest/Program.cs">
     <Files>
-      <File FileName="StartUp.cs" Line="1" Column="1" />
-      <File FileName="Renovator.cs" Line="33" Column="90" />
-      <File FileName="Catalog.cs" Line="103" Column="24" />
+      <File FileName="01_BaristaContest/Program.cs" Line="26" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Renovators" expanded="True">
-            <Node name="Renovators" expanded="True">
-              <Node name="Catalog.cs" selected="True" />
-            </Node>
+          <Node name="01_BaristaContest" expanded="True">
+            <Node name="01_BaristaContest" expanded="True" />
           </Node>
         </State>
       </Pad>
