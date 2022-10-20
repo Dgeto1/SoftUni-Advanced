@@ -9,17 +9,15 @@
   <MonoDevelop.Ide.ItemProperties.Renovators PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Catalog.cs">
     <Files>
-      <File FileName="StartUp.cs" Line="1" Column="1" />
-      <File FileName="Renovator.cs" Line="33" Column="90" />
-      <File FileName="Catalog.cs" Line="103" Column="24" />
+      <File FileName="StartUp.cs" />
+      <File FileName="Renovator.cs" />
+      <File FileName="Catalog.cs" Line="58" Column="55" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Renovators" expanded="True">
-            <Node name="Renovators" expanded="True">
-              <Node name="Catalog.cs" selected="True" />
-            </Node>
+            <Node name="Renovators" expanded="True" />
           </Node>
         </State>
       </Pad>
