@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/bin/Debug/netcoreapp3.1/02.TruffleHunter
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/bin/Debug/netcoreapp3.1/02.TruffleHunter.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/bin/Debug/netcoreapp3.1/02.TruffleHunter.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/bin/Debug/netcoreapp3.1/02.TruffleHunter.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/bin/Debug/netcoreapp3.1/02.TruffleHunter.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/bin/Debug/netcoreapp3.1/02.TruffleHunter.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/obj/Debug/netcoreapp3.1/02.TruffleHunter.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/obj/Debug/netcoreapp3.1/02.TruffleHunter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/obj/Debug/netcoreapp3.1/02.TruffleHunter.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/obj/Debug/netcoreapp3.1/02.TruffleHunter.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/obj/Debug/netcoreapp3.1/02.TruffleHunter.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/obj/Debug/netcoreapp3.1/02.TruffleHunter.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/obj/Debug/netcoreapp3.1/02.TruffleHunter.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.TruffleHunter/02.TruffleHunter/obj/Debug/netcoreapp3.1/02.TruffleHunter.genruntimeconfig.cache

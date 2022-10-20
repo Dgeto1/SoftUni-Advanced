@@ -33,11 +33,90 @@ namespace Renovators
 
         public string AddRenovator(Renovator renovator)
         {
-            if(renovator.Name == null)
+            if(renovator.Name == null || renovator.Type == null)
             {
-                Console.WriteLine("Invalid renovator's information.");
+                return "Invalid renovator's information.";
             }
-            if(renovator.)
+            if(renovators.Count>=neededRenovators)
+            {
+                return "Renovators are no more needed.";
+            }
+            if(renovator.Rate>350)
+            {
+                return "Invalid renovator's rate.";
+            }
+            else
+            {
+                renovators.Add(renovator);
+                return $"Successfully added {renovator.Name} to the catalog.";
+            }
+        }
+        public bool RemoveRenovator(string name)
+        {
+            bool isTrue = false;
+            foreach(Renovator x in renovators)
+            {
+                if(x.Name==name)
+                {
+                    renovators.Remove(x);
+                    isTrue = true;
+                }
+                else
+                {
+                    isTrue = false;
+                }
+            }
+            return isTrue;
+        }
+        public int RemoveRenovatorBySpecialty(string type)
+        {
+            int counter = 0;
+            foreach(Renovator x in renovators)
+            {
+                if(x.Type==type)
+                {
+                    renovators.Remove(x);
+                    counter++;
+                }
+            }
+            return counter;
+        }
+        public Renovator HireRenovator(string name)
+        {
+            bool isTrue = false;
+            string st = string.Empty;
+            foreach(Renovator x in renovators)
+            {
+                if(x.Name==name)
+                {
+                    x.Hired = true;
+                    st = x.Name;
+                    isTrue = true;
+                }
+                else
+                {
+                    isTrue = false;
+                }
+            }
+            if(isTrue)
+            {
+                return ;
+            }
+            else
+            {
+                return null;
+            }
+        }
+
+        public List<Renovator> PayRenovators(int days)
+        {
+            foreach(Renovator x in renovators)
+            {
+                if(x.Days>=days)
+                {
+                    PayRenovators.Ad
+                }
+            }
         }
     }
 }
