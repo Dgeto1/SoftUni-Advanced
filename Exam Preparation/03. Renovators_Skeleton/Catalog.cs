@@ -15,29 +15,37 @@ namespace Renovators
 
         public Catalog(string name, int neededRenovators, string project)
         {
-            Renovators = new List<Renovator>();
+            renovators = new List<Renovator>();
             Name = name;
             NeededRenovators = neededRenovators;
             Project = project;
         }
 
-        public List<Renovator> Renovators { get; set; }
-        public string Name { get; set; }
-        public int NeededRenovators { get; set; }
-        public string Project { get; set; }
-
-        public int Count()
+        public string Name
         {
-            return renovators.Count();
+            get { return this.name; }
+            set { name = value; }
         }
+        public int NeededRenovators
+        {
+            get { return this.neededRenovators; }
+            set { neededRenovators = value; }
+        }
+        public string Project
+        {
+            get { return this.project; }
+            set { project = value; }
+        }
+
+        public int Count { get { return renovators.Count(); } }
 
         public string AddRenovator(Renovator renovator)
         {
-            if(renovator.Name == null || renovator.Type == null)
+            if(String.IsNullOrEmpty(renovator.Name) || String.IsNullOrEmpty(renovator.Type))
             {
                 return "Invalid renovator's information.";
             }
-            if(renovators.Count>=neededRenovators)
+            if(Count==neededRenovators)
             {
                 return "Renovators are no more needed.";
             }
@@ -45,78 +53,58 @@ namespace Renovators
             {
                 return "Invalid renovator's rate.";
             }
-            else
-            {
-                renovators.Add(renovator);
-                return $"Successfully added {renovator.Name} to the catalog.";
-            }
+
+            renovators.Add(renovator);
+            return $"Successfully added {renovator.Name} to the catalog.";
         }
+
         public bool RemoveRenovator(string name)
         {
-            bool isTrue = false;
-            foreach(Renovator x in renovators)
-            {
-                if(x.Name==name)
-                {
-                    renovators.Remove(x);
-                    isTrue = true;
-                }
-                else
-                {
-                    isTrue = false;
-                }
-            }
-            return isTrue;
+            Renovator renovator = renovators.FirstOrDefault(x => x.Name == name);
+
+            return renovators.Remove(renovator);
         }
+
         public int RemoveRenovatorBySpecialty(string type)
         {
-            int counter = 0;
-            foreach(Renovator x in renovators)
-            {
-                if(x.Type==type)
-                {
-                    renovators.Remove(x);
-                    counter++;
-                }
-            }
-            return counter;
+            List<Renovator> remove = renovators.Where(x => x.Type != type).ToList();
+
+            int count = renovators.Count() - remove.Count();
+            renovators = remove;
+
+            return count;
         }
+
         public Renovator HireRenovator(string name)
         {
-            bool isTrue = false;
-            string st = string.Empty;
-            foreach(Renovator x in renovators)
+            Renovator renovator = renovators.FirstOrDefault(x => x.Name == name);
+
+            if(renovator!=null)
             {
-                if(x.Name==name)
-                {
-                    x.Hired = true;
-                    st = x.Name;
-                    isTrue = true;
-                }
-                else
-                {
-                    isTrue = false;
-                }
+                renovator.Hired = true;
             }
-            if(isTrue)
-            {
-                return ;
-            }
-            else
-            {
-                return null;
-            }
+
+            return renovator;
         }
 
         public List<Renovator> PayRenovators(int days)
         {
-            foreach(Renovator x in renovators)
+            return renovators.Where(x => x.Days >= days).ToList();
+        }
+
+        public string Report()
+        {
+            StringBuilder sb = new StringBuilder();
+            List<Renovator> unhired = renovators.Where(x => x.Hired == false).ToList();
+
+            sb.AppendLine($"Renovators available for Project {project}:");
+
+            foreach(var x in unhired)
             {
-                if(x.Days>=days)
-                {
-                    PayRenovators.Ad
-                }
+                sb.AppendLine(x.ToString());
             }
+
+            return sb.ToString().Trim();
         }
     }
 }
