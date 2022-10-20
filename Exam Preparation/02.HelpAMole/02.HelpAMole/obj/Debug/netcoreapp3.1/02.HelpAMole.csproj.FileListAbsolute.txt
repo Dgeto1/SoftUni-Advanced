@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/bin/Debug/netcoreapp3.1/02.HelpAMole
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/bin/Debug/netcoreapp3.1/02.HelpAMole.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/bin/Debug/netcoreapp3.1/02.HelpAMole.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/bin/Debug/netcoreapp3.1/02.HelpAMole.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/bin/Debug/netcoreapp3.1/02.HelpAMole.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/bin/Debug/netcoreapp3.1/02.HelpAMole.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/obj/Debug/netcoreapp3.1/02.HelpAMole.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/obj/Debug/netcoreapp3.1/02.HelpAMole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/obj/Debug/netcoreapp3.1/02.HelpAMole.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/obj/Debug/netcoreapp3.1/02.HelpAMole.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/obj/Debug/netcoreapp3.1/02.HelpAMole.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/obj/Debug/netcoreapp3.1/02.HelpAMole.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/obj/Debug/netcoreapp3.1/02.HelpAMole.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.HelpAMole/02.HelpAMole/obj/Debug/netcoreapp3.1/02.HelpAMole.genruntimeconfig.cache

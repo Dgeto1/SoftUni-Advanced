@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6B5A308B-5FD6-449F-AEF2-78F1DCD70AA5}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../01.TilesMaster2.0/01.TilesMaster2.0/Program.cs" line="26" column="28" endLine="26" endColumn="47" offsetX="-1" offsetY="-1" expression="sum" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.02.HelpAMole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.HelpAMole/Program.cs">
+    <Files>
+      <File FileName="02.HelpAMole/Program.cs" Line="52" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02.HelpAMole" expanded="True">
+            <Node name="02.HelpAMole" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
