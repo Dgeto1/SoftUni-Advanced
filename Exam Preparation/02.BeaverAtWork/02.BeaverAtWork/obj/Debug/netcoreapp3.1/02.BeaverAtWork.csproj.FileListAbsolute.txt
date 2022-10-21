@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/bin/Debug/netcoreapp3.1/02.BeaverAtWork
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/bin/Debug/netcoreapp3.1/02.BeaverAtWork.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/bin/Debug/netcoreapp3.1/02.BeaverAtWork.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/bin/Debug/netcoreapp3.1/02.BeaverAtWork.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/bin/Debug/netcoreapp3.1/02.BeaverAtWork.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/bin/Debug/netcoreapp3.1/02.BeaverAtWork.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/obj/Debug/netcoreapp3.1/02.BeaverAtWork.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/obj/Debug/netcoreapp3.1/02.BeaverAtWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/obj/Debug/netcoreapp3.1/02.BeaverAtWork.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/obj/Debug/netcoreapp3.1/02.BeaverAtWork.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/obj/Debug/netcoreapp3.1/02.BeaverAtWork.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/obj/Debug/netcoreapp3.1/02.BeaverAtWork.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/obj/Debug/netcoreapp3.1/02.BeaverAtWork.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/02.BeaverAtWork/02.BeaverAtWork/obj/Debug/netcoreapp3.1/02.BeaverAtWork.genruntimeconfig.cache
