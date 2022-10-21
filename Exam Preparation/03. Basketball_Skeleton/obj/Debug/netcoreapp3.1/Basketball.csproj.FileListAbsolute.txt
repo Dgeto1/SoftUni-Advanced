@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/bin/Debug/netcoreapp3.1/Basketball
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/bin/Debug/netcoreapp3.1/Basketball.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/bin/Debug/netcoreapp3.1/Basketball.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/bin/Debug/netcoreapp3.1/Basketball.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/bin/Debug/netcoreapp3.1/Basketball.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/bin/Debug/netcoreapp3.1/Basketball.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/obj/Debug/netcoreapp3.1/Basketball.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/obj/Debug/netcoreapp3.1/Basketball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/obj/Debug/netcoreapp3.1/Basketball.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/obj/Debug/netcoreapp3.1/Basketball.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/obj/Debug/netcoreapp3.1/Basketball.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/obj/Debug/netcoreapp3.1/Basketball.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/obj/Debug/netcoreapp3.1/Basketball.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/obj/Debug/netcoreapp3.1/Basketball.genruntimeconfig.cache

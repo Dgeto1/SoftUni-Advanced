@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/bin/Debug/netcoreapp3.1/FishingNet
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/bin/Debug/netcoreapp3.1/FishingNet.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/bin/Debug/netcoreapp3.1/FishingNet.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/bin/Debug/netcoreapp3.1/FishingNet.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/bin/Debug/netcoreapp3.1/FishingNet.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/bin/Debug/netcoreapp3.1/FishingNet.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/obj/Debug/netcoreapp3.1/FishingNet.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/obj/Debug/netcoreapp3.1/FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/obj/Debug/netcoreapp3.1/FishingNet.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/obj/Debug/netcoreapp3.1/FishingNet.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/obj/Debug/netcoreapp3.1/FishingNet.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/obj/Debug/netcoreapp3.1/FishingNet.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/obj/Debug/netcoreapp3.1/FishingNet.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/FishingNet/FishingNet/obj/Debug/netcoreapp3.1/FishingNet.genruntimeconfig.cache
