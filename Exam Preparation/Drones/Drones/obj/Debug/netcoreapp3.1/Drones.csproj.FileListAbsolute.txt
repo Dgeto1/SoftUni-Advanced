@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/bin/Debug/netcoreapp3.1/Drones
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/bin/Debug/netcoreapp3.1/Drones.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/bin/Debug/netcoreapp3.1/Drones.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/bin/Debug/netcoreapp3.1/Drones.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/bin/Debug/netcoreapp3.1/Drones.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/bin/Debug/netcoreapp3.1/Drones.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/obj/Debug/netcoreapp3.1/Drones.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/obj/Debug/netcoreapp3.1/Drones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/obj/Debug/netcoreapp3.1/Drones.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/obj/Debug/netcoreapp3.1/Drones.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/obj/Debug/netcoreapp3.1/Drones.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/obj/Debug/netcoreapp3.1/Drones.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/obj/Debug/netcoreapp3.1/Drones.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/Drones/Drones/obj/Debug/netcoreapp3.1/Drones.genruntimeconfig.cache

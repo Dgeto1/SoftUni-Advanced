@@ -79,7 +79,7 @@ namespace _01.BakeryShop
             }
             else
             {
-                Console.WriteLine(String.Join(", ", water));
+                Console.WriteLine($"Water left: {String.Join(", ", water)}");
             }
             if(!flour.Any())
             {
@@ -87,7 +87,7 @@ namespace _01.BakeryShop
             }
             else
             {
-                Console.WriteLine(String.Join(", ", flour));
+                Console.WriteLine($"Flour left: {String.Join(", ", flour)}");
             }
             Console.Read();
         }

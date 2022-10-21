@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/bin/Debug/netcoreapp3.1/01.Blacksmith
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/bin/Debug/netcoreapp3.1/01.Blacksmith.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/bin/Debug/netcoreapp3.1/01.Blacksmith.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/bin/Debug/netcoreapp3.1/01.Blacksmith.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/bin/Debug/netcoreapp3.1/01.Blacksmith.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/bin/Debug/netcoreapp3.1/01.Blacksmith.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/obj/Debug/netcoreapp3.1/01.Blacksmith.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/obj/Debug/netcoreapp3.1/01.Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/obj/Debug/netcoreapp3.1/01.Blacksmith.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/obj/Debug/netcoreapp3.1/01.Blacksmith.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/obj/Debug/netcoreapp3.1/01.Blacksmith.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/obj/Debug/netcoreapp3.1/01.Blacksmith.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/obj/Debug/netcoreapp3.1/01.Blacksmith.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/01.Blacksmith/01.Blacksmith/obj/Debug/netcoreapp3.1/01.Blacksmith.genruntimeconfig.cache
