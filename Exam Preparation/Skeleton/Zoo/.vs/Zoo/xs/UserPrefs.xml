@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2C61EE29-1FFD-4A6D-A46A-74952D5FD422}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../01.TilesMaster2.0/01.TilesMaster2.0/Program.cs" line="26" column="28" endLine="26" endColumn="47" offsetX="-1" offsetY="-1" expression="sum" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Zoo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zoo.cs">
+    <Files>
+      <File FileName="StartUp.cs" Line="43" Column="1" />
+      <File FileName="Animal.cs" />
+      <File FileName="Zoo.cs" Line="56" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zoo" expanded="True">
+            <Node name="Zoo" expanded="True">
+              <Node name="Zoo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

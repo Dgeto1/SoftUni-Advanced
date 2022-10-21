@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgRYFhs0tlNKa4Kb1iQNIjtoxALLWyb/IHiRl5tzAC3JZ4S5/SkrMpWmOkfGbgnvBOgNrr3Ya65AB4QnguiYWg==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Exam Preparation/03. Basketball_Skeleton/Basketball.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{013D290E-3C53-451F-AA8E-F9D128A24998}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../01.TilesMaster2.0/01.TilesMaster2.0/Program.cs" line="26" column="28" endLine="26" endColumn="47" offsetX="-1" offsetY="-1" expression="sum" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.FishingNet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FishingNet/Net.cs">
+    <Files>
+      <File FileName="FishingNet/Fish.cs" Line="24" Column="25" />
+      <File FileName="FishingNet/Net.cs" Line="78" Column="49" />
+      <File FileName="FishingNet/StartUp.cs" Line="62" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FishingNet" expanded="True">
+            <Node name="FishingNet" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
