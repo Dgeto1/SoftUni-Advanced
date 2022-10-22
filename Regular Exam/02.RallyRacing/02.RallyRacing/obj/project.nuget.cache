@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Q3sZKG3bCMLMMbAiyM0oR10c9as4iurLIpj5gXWFW7k3kPsuzJMip4nONfXM95T2IEpo8R1kNbbzeLxZ8sOZA==",
+  "success": true,
+  "projectFilePath": "/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/02.RallyRacing.csproj",
+  "expectedPackageFiles": [
+    "/Users/hristopapanov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/hristopapanov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/bin/Debug/netcoreapp3.1/02.RallyRacing
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/bin/Debug/netcoreapp3.1/02.RallyRacing.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/bin/Debug/netcoreapp3.1/02.RallyRacing.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/bin/Debug/netcoreapp3.1/02.RallyRacing.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/bin/Debug/netcoreapp3.1/02.RallyRacing.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/bin/Debug/netcoreapp3.1/02.RallyRacing.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/obj/Debug/netcoreapp3.1/02.RallyRacing.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/obj/Debug/netcoreapp3.1/02.RallyRacing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/obj/Debug/netcoreapp3.1/02.RallyRacing.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/obj/Debug/netcoreapp3.1/02.RallyRacing.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/obj/Debug/netcoreapp3.1/02.RallyRacing.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/obj/Debug/netcoreapp3.1/02.RallyRacing.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/obj/Debug/netcoreapp3.1/02.RallyRacing.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/02.RallyRacing/02.RallyRacing/obj/Debug/netcoreapp3.1/02.RallyRacing.genruntimeconfig.cache
