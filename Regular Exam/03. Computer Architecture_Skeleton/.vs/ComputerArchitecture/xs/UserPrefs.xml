@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{98DB95F5-59E0-4B64-A124-843635FEBF76}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ComputerArchitecture PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Computer.cs">
+    <Files>
+      <File FileName="StartUp.cs" Line="61" Column="1" />
+      <File FileName="CPU.cs" Line="28" Column="35" />
+      <File FileName="Computer.cs" Line="49" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComputerArchitecture" expanded="True">
+            <Node name="ComputerArchitecture" expanded="True">
+              <Node name="Computer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

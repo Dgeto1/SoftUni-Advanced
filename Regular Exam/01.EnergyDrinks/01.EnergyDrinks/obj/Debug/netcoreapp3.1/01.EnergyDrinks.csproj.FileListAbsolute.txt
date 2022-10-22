@@ -1,0 +1,14 @@
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/bin/Debug/netcoreapp3.1/01.EnergyDrinks
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/bin/Debug/netcoreapp3.1/01.EnergyDrinks.deps.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/bin/Debug/netcoreapp3.1/01.EnergyDrinks.runtimeconfig.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/bin/Debug/netcoreapp3.1/01.EnergyDrinks.runtimeconfig.dev.json
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/bin/Debug/netcoreapp3.1/01.EnergyDrinks.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/bin/Debug/netcoreapp3.1/01.EnergyDrinks.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/obj/Debug/netcoreapp3.1/01.EnergyDrinks.csproj.AssemblyReference.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/obj/Debug/netcoreapp3.1/01.EnergyDrinks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/obj/Debug/netcoreapp3.1/01.EnergyDrinks.AssemblyInfoInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/obj/Debug/netcoreapp3.1/01.EnergyDrinks.AssemblyInfo.cs
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/obj/Debug/netcoreapp3.1/01.EnergyDrinks.csproj.CoreCompileInputs.cache
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/obj/Debug/netcoreapp3.1/01.EnergyDrinks.dll
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/obj/Debug/netcoreapp3.1/01.EnergyDrinks.pdb
+/Users/hristopapanov/Documents/GitHub/SoftUni-Advanced/Regular Exam/01.EnergyDrinks/01.EnergyDrinks/obj/Debug/netcoreapp3.1/01.EnergyDrinks.genruntimeconfig.cache

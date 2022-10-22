@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E8AC399B-A33F-481F-94E3-7A5A2269B816}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.RallyRacing/Program.cs">
+    <Files>
+      <File FileName="02.RallyRacing/Program.cs" Line="18" Column="102" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02.RallyRacing" expanded="True">
+            <Node name="02.RallyRacing" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02.RallyRacing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

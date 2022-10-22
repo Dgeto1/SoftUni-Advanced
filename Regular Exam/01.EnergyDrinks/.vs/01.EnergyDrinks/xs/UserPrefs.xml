@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C0DFA53A-E196-4FD6-8740-548FDB254C1B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01.EnergyDrinks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="01.EnergyDrinks/Program.cs">
+    <Files>
+      <File FileName="01.EnergyDrinks/Program.cs" Line="29" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01.EnergyDrinks" expanded="True">
+            <Node name="01.EnergyDrinks" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
